@@ -1,0 +1,19 @@
+					<div class="row">
+						<div class="education">
+							<h1>education</h1>
+							
+							<div class="row">
+								<div class="education-head">
+								<h2>Gitam university</h2>
+								<h2>Sesi juner collage</h2>
+								</div>
+							</div>
+							
+							<div class="row">
+								<div class="education-content">
+								<p>i have been studing python because to get good offer in the best compemny and to get better packwhvyub uibbjkj yiyguybjb ygiubi uibiui uiinj iuhiu;n uhiunijniugn ibibi;ububiubvjknjun </p>
+								</div>
+							</div>
+							
+						</div>
+				    </div>
